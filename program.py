@@ -1,5 +1,5 @@
 def print_result(name):
-    print(name)
+    print(f'Привет, {name}')
 
 
-print_result('Hello, world!')
+print_result('Павел')
